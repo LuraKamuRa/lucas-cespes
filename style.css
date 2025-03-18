@@ -80,38 +80,31 @@ a{
     flex-direction: column;
     justify-content: space-between;
 }
-.skillset{
-    height: 238px;
-}
-.award{
-    height: 204px;
-}
-.carrer{
-    height: 544px;
-}
-.recent{
-    height: 273px;
-}
+
 
 .skillset, .awards, .carrer, .correr{
     margin-bottom: 100px;
 }
+h3{
+    color: var(--Secondary);
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+}
 
+.skill{
+    color: var(--Secondary);
+}
 
 .coluna2{
-    width: 635px;
     width: 100%;
-    margin-right: 152px;
-
-    
+    margin-right: 170px;
 }
 .sobre{
     height: 326px;
 }
-.experience{
-    height: 236px;
-    margin-bottom: 66px;
-}
+
 
 .title{
     width: 100%;
